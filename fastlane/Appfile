@@ -1,0 +1,8 @@
+app_identifier("HelloAmazingEasyMathByCranberry") # The bundle identifier of your app
+apple_id("us53bu@163.com") # Your Apple email address
+
+itc_team_id("120261462") # App Store Connect Team ID
+team_id("Y4VGPV9NDC") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
